@@ -1,0 +1,1385 @@
+[
+    {
+        "rol":"Asesino",
+        "dificultad": "Fácil",
+        "nombre":"Akshan"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Fácil",
+        "nombre":"Fiora"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Fácil",
+        "nombre": "Xin Zhao"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Ahri"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Akali"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Fizz"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Gwen"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Irelia"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Jax"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Kha'Zix"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Lee Sin"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Maestro Yi"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Malzahar"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Nocturne"
+    },{
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Pantheon"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Pyke"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Quinn"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Sylas"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Talon"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Teemo"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Tristana"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Tryndamere"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Twitch"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Vi"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Media",
+        "nombre": "Viego"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "medio",
+        "nombre": "Zed"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Ekko"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Evelynn"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Kassadin"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Katrina"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Kayn"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "LeBlanc"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Nidalee"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Qiyana"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Rengar"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Riven"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Shaco"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Vayne"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Yasuo"
+    },
+    {
+        "rol":"Asesino",
+        "dificultad": "Difícil",
+        "nombre": "Yone"
+    },
+
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Darius"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Fiora"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Malaphite"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Olaf"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Rek'Sai"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Renekton"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Sett"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Taric"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Volibear"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Warwick"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Wukong"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Fácil",
+        "nombre": "Xin Zhao"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Aatrox"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Blitzcrank"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Camille"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Diana"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Dr. Mundo"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Fizz"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Garen"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Gragas"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Gwen"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Hecarim"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Illaoi"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Irelia"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Jarvan IV"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Jax"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Jayce"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Kyle"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Kled"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Lee Sin"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Maestro Yi"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Mordekaiser"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Nasus"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Nautilus"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Nocturne"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Nunu y Willump"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Ornn"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Pantheon"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Poppy"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Rammus"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Ryze"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Sejuani"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Shyvana"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Signed"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Sion"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Skarner"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Thresh"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Trundle"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Tryndramere"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Udyr"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Vi"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Viego"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Media",
+        "nombre": "Yorick"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Ekko"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Elise"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Gangplank"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Gnar"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Kayn"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Lillia"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Quiyana"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Rengar"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Riven"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Rumble"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Swain"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Urgot"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Yasuo"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Yone"
+    },
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Zac"
+    },
+
+    {
+        "rol":"Luchador",
+        "dificultad": "Difícil",
+        "nombre": "Zac"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Fácil",
+        "nombre": "Amumu"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Fácil",
+        "nombre": "Maokai"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Fácil",
+        "nombre": "Morgana"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Fácil",
+        "nombre": "Seraphine"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Fácil",
+        "nombre": "Soraka"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Fácil",
+        "nombre": "Varus"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Fácil",
+        "nombre": "Vex"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Fácil",
+        "nombre": "Yuumi"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Ahri"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Annie"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Aurelion Sol"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Brand"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Cho'Gath"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Diana"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Ezreal"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Galio"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Gragas"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Ivern"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Janna"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Jhin"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Karma"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Karthus"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Kennen"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Kog'Maw"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Lissandra"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Lulu"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Lux"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Malzahar"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Nami"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Neeko"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Orianna"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Ryze"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Sona"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Sylas"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Taliyah"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Veigar"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Vladimir"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Ziggs"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Zilean"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Zoe"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Media",
+        "nombre": "Zyra"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Anivia"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Azir"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Bardo"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Cassiopeia"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Elise"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Evelynn"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Fiddelsticks"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Heimerdinger"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Kassadin"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Katrina"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "LeBlanc"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Lillia"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Nidalee"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Rumble"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Swain"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Syndra"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Twisted Fate"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Vel'Koz"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Viktor"
+    },
+    {
+        "rol":"Mago",
+        "dificultad": "Difícil",
+        "nombre": "Xerath"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Fácil",
+        "nombre": "Akshan"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Fácil",
+        "nombre": "Graves"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Fácil",
+        "nombre": "Miss Fortune"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Fácil",
+        "nombre": "Varius"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Ashe"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Caitlyn"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Corki"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Ezreal"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Jayce"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Jhin"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Jinx"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Kai'Sa"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Kalista"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Kennen"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Kindred"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Kog'Maw"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Lucian"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Quinn"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Samira"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Senna"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Sivir"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Teemo"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Tristana"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Twitch"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Xayah"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Media",
+        "nombre": "Zeri"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Difícil",
+        "nombre": "Aphelios"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Difícil",
+        "nombre": "Azir"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Difícil",
+        "nombre": "Draven"
+    },
+    {
+        "rol":"Tirador",
+        "dificultad": "Difícil",
+        "nombre": "Vayne"
+    },
+
+    {
+        "rol":"Apoyo",
+        "dificultad": "Fácil",
+        "nombre": "Braum"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Fácil",
+        "nombre": "Morgana"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Fácil",
+        "nombre": "Seraphine"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Fácil",
+        "nombre": "Soraka"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Fácil",
+        "nombre": "Taric"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Fácil",
+        "nombre": "Yuumi"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Alistar"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Ashe"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Ivern"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Janna"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Karma"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Leona"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Lulu"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Lux"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Nami"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Neeko"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Orianna"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Pyke"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Rakan"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Senna"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Sona"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Tahm Kench"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Taliyah"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Thresh"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Zilean"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Zoe"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Media",
+        "nombre": "Zyra"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Difícil",
+        "nombre": "Anivia"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Difícil",
+        "nombre": "Bardo"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Difícil",
+        "nombre": "Fiddelsticks"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Difícil",
+        "nombre": "Heimerdinger"
+    },
+    {
+        "rol":"Apoyo",
+        "dificultad": "Difícil",
+        "nombre": "Syndra"
+    },
+
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Amumu"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Braum"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Darius"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Malaphite"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Maokai"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Olaf"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Rell"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Reneketon"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Sett"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Volibear"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Warwick"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Fácil",
+        "nombre": "Wukong"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Atrox"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Alistar"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Blitzcrank"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Camille"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Cho'Grath"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Dr. Mundo"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Galio"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Garen"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Hecarim"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Illaoi"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Jarvan IV"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Kled"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Leona"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Nasus"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Nautilus"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Nunu y Willump"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Ornn"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Poppy"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Rammus"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Sejuani"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Shen"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Shyvana"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Signed"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Sion"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Skarner"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Tahm Kench"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Trundle"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Udyr"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Media",
+        "nombre": "Yorick"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Difícil",
+        "nombre": "Gnar"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Difícil",
+        "nombre": "Urgot"
+    },
+    {
+        "rol":"Tanque",
+        "dificultad": "Difícil",
+        "nombre": "Zac"
+    }
+]

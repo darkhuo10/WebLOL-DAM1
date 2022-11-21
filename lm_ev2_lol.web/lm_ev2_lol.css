@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to bottom, #0da593, #F0D050);   
+}
+
+
+main{
+    box-sizing: border-box;
+    border: 2px solid #064e45;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 20px 40px;
+    background-color: rgba(255,255,255, 0.4);
+    display: grid;
+    gap: 1.8em;
+    grid-template-areas:
+        "header header header"
+        "intro intro intro"
+        "objetivo objetivo nexos"
+        "estructuras estructuras torretas"
+        "monstruos monstruos jungla"
+        "mapa mapa calles"
+        "campeones campeones campeones"
+        "footer footer footer";
+}
+
+nav{
+    font-size: 1.5em;
+    background-color: #F0D050;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.nav_checkbox{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: left;
+    align-items: center;
+    padding: 5px;
+   
+}
+
+.logo{
+    text-decoration: none;
+    color: #064e45;
+}
+
+.tab-nav{
+    outline: none;
+    display: none;
+}
+
+.label{
+    display: none;
+    color: #064e45;
+}
+
+.burger{
+    width: 35px;
+    height: 5px;
+    background-color: #064e45;
+    margin-top: 5px;
+}
+
+.content_nav{
+    display: flex;
+    grid-column: 3;
+    list-style: none;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.content_nav li{
+    display: flex;
+    padding: 10px;
+}
+
+.content_nav li a{
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #064e45;
+}
+
+
+.content_nav li a:hover{
+    color: red;
+}
+
+@media only screen and (max-width:600px){
+    main{
+        grid-template-areas:
+            "header"
+            "intro"
+            "objetivo"
+            "nexos"
+            "estructuras"
+            "torretas"
+            "monstruos"
+            "jungla"
+            "mapa"
+            "calles"
+            "campeones"
+            "footer";
+    }
+    .label{
+        display: grid;
+        cursor: pointer;
+        grid-column: 3;
+        padding-right: 10px;
+    }
+    .content_nav{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-column: 1/4;
+        text-align: center;
+        max-height: 0;
+        overflow: hidden;
+        transition: all ease-in-out 0.6s;
+    }
+    .nav_checkbox input:checked ~ .content_nav{
+        max-height: 500px;
+    }
+    .content_nav li{
+        padding: 15px 0px;
+    }
+}
+
+h1{
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 3em;
+    color: #F0D050;
+    background-color: black;
+}
+h2{
+    font-size: 2em;
+    text-align: center;
+    color: #064e45;
+}
+h3{
+    font-size: 1.5em;
+    text-align: center;
+    color: #064e45;
+}
+
+p{
+    padding: 20px 10px;
+}
+footer{
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2em;
+    color: #F0D050;
+    background-color: black;
+}
+
+#header{
+    margin: 20px 50px;
+    grid-area: header;
+}
+#intro{
+    color: #064e45;
+    text-align: justify;
+    grid-area: intro;
+}
+#objetivo{
+    color: #064e45;
+    text-align: justify;
+    grid-area: objetivo;
+}
+#nexos{
+    color: #064e45;
+    text-align: justify;
+    grid-area: nexos;
+}
+#footer{
+    margin: 20px 50px;
+    grid-area: footer;
+}
+
+#estructuras{
+    color: #064e45;
+    text-align: justify;
+    grid-area: estructuras;
+}
+#torretas{
+    color: #064e45;
+    text-align: justify;
+    grid-area: torretas;
+}
+#monstruos{
+    color: #064e45;
+    text-align: justify;
+    grid-area: monstruos;
+}
+#jungla{
+    color: #064e45;
+    text-align: justify;
+    grid-area: jungla;
+}
+#mapa{
+    color: #064e45;
+    text-align: justify;
+    grid-area: mapa;
+}
+#calles{
+    color: #064e45;
+    text-align: justify;
+    grid-area: calles;
+}
+
+article, aside{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+img{
+    height: 65%;
+    width: 65%;
+    border-radius: 20px;
+}
+
+.p_campeones{
+    color: #064e45;
+    text-align: center;
+   
+}
+button{
+    color: #F0D050;
+    background-color: black;
+    padding: 10px;
+    margin: 20px;
+}
+thead{
+    color: #F0D050;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+}
+tbody{
+    color: #064e45;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+tr, td{
+    border: 2px solid #064e45;
+}
+table{
+    border-collapse: collapse;
+    border: 2px solid #064e45;
+    
+}
+
